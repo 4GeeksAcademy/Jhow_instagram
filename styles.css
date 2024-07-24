@@ -1,0 +1,81 @@
+
+.imagen{
+    width: 33%;
+    height: 33%;
+    margin-top: 0px;
+    background-color: white;
+    margin-left: 450px;
+}
+.cabecera{
+    width: 33%;
+    height: 50px;
+    margin-left: 450px;
+    background-color: white;
+    display:inline-flex;
+    
+}
+.pie{
+    width: 33%;
+    height: 70px;
+    margin-left: 450px;
+    background-color: white;
+}
+img{
+    height: 100%;
+    width: 100%;
+        
+}
+.post{
+    background-color: beige;
+}   
+i{
+    
+    padding: 5px;
+}
+
+.html5{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.menu{
+    margin-left: 280px;
+    margin-right: 10px;
+    padding: 5px;
+    
+}
+.textocabecera{
+    width: 100%;
+    height: 40px;
+    margin-top: 0px;
+    
+}
+
+
+.pie_item1{
+    width: 75%;
+    position:relative;
+    padding: 10px;
+}
+.pie_item2{
+    width: 24%;
+    margin-left: 390px;
+   margin-top: -60px;
+   padding: 10px;
+   
+}
+body{
+    background-color: black;
+}
+
+p{
+    background-color: white;
+   padding: 10px;
+   margin: 0;
+
+}
+.roboto-black-italic p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
